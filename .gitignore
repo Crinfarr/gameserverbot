@@ -86,3 +86,12 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+#built files
+build
+
+# package-lock
+package-lock.json
+
+# environment
+env.json
